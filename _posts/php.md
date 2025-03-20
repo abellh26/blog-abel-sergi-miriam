@@ -1,7 +1,7 @@
 ---
 title: "php"
 excerpt: "PHP es un lenguaje de programación interpretado2​ del lado del servidor y de uso general que se adapta especialmente al desarrollo web.3​ Fue creado inicialmente por el programador danés-canadiense Rasmus Lerdorf en 1994."
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/hello-world/PHP.jpeg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Abel, Miriam, Sergi
