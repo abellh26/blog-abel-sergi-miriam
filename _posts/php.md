@@ -7,7 +7,7 @@ author:
   name: Abel, Miriam, Sergi
   picture: "/assets/blog/authors/tim.jpeg"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "/assets/blog/hello-world/PHP.jpeg"
 ---
 
 En la actualidad, la implementación de referencia de PHP es producida por The PHP Group.5​ PHP originalmente significaba Personal Home Page (Página personal), pero ahora significa el inicialismon 1​ recursivo PHP: Hypertext Preprocessor.7​
