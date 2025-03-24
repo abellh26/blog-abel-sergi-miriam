@@ -1,6 +1,5 @@
 ---
-title: "JS ./../api/hola.js"
-url: "./../api/hola.js"
+title: "JS"
 excerpt: "JavaScript (abreviado comúnmente JS) es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos,2​ basado en prototipos, imperativo, débilmente tipado y dinámico."
 coverImage: "/assets/blog/hello-world/Unofficial_JavaScript_logo_2.svg.png"
 date: "2020-03-16T05:35:07.322Z"
